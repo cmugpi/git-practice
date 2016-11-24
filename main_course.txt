@@ -1,2 +1,2 @@
 The main course of the meal will consist of:
-(delete this line and write in the main course)
+also the solarized doesn't really work in terminal.app so i'm just kinda unsure
