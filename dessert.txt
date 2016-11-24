@@ -1,6 +1,2 @@
 The dessert will be:
-Did you think I was going to say pie? 
-
-Nah. 
-
-TURKEY 
+(delete this line and write in the dessert)
