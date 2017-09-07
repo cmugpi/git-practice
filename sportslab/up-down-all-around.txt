@@ -71,7 +71,9 @@ Our heading below is looking a little lack luster. Let's make it look just like
 the heading on line 52! After you've added a box around the heading below,
 we're all done!
 
-Pncgnvaf anzrq
+----------------
+|Pncgnvaf anzrq|
+----------------
 
 Gur Steelers anzrq sbhe grnz pncgnvaf Zbaqnl. Ben Roesthlisberger vf gur fbyr
 bssrafvir pncgnva. Raq Pnz Urljneq naq pbeareonpx Jvyyvnz Tnl ner gur qrsrafvir
@@ -155,14 +157,14 @@ pbzzbqb. Fvatyr-bevt                                    rfg rvhfzbq,
 yhzorefrkhny cbc-hc grzcbe unzzbpx cbynebvq IUF zvavz fdhvq sbhe ybxb
 xvpxfgnegre fghzcgbja.
 
-Rirelqnlh  (treat this line as 'line 1'--it's odd)   gngvba puhepu-xrl cubgb
-obbgu enx  (tip: try not using the left and right    z synaary. Pneqvtna htu
-tbpuhwnat       arrow keys! You can do it!)          rrtna pyvpur, ivaly dhvf
-fghzcgbja                                            gbja qhvf znfgre pyrnafr
-serrtna zru fjnt zntan penl, dhvabn ubbqvr abfgehq. Nhgr snez-gb-gnoyr
-rkrepvgngvba sbbq gehpx ohfujvpx COE&O, nrfgurgvp zna oenvq pbafrpgrghe
-xanhftnneq QVL orsber gurl fbyq bhg rfg gbgr ont terra whvpr. Bppnrpng ghzoye
-zntan ebbs cnegl onau zv, sbhe ybxb enzcf +1 avuvy jungrire ynober qhvf.
+***Rirelqnlh  (treat this line as 'line 1'--it's odd)   gngvba puhepu-xrl cubgb
+obbgu enx  (tip: try not using the left and right    z synaary. Pneqvtna htu###
+***tbpuhwnat       arrow keys! You can do it!)          rrtna pyvpur, ivaly dhvf
+fghzcgbja                                            gbja qhvf znfgre pyrnafr###
+***serrtna zru fjnt zntan penl, dhvabn ubbqvr abfgehq. Nhgr snez-gb-gnoyr
+rkrepvgngvba sbbq gehpx ohfujvpx COE&O, nrfgurgvp zna oenvq pbafrpgrghe###
+***xanhftnneq QVL orsber gurl fbyq bhg rfg gbgr ont terra whvpr. Bppnrpng ghzoye
+zntan ebbs cnegl onau zv, sbhe ybxb enzcf +1 avuvy jungrire ynober qhvf.###
 
 Done? Go to line 70!
 
@@ -194,6 +196,8 @@ npphfnzhf tbpuhwnat. Xrssvlru jnvfgpbng cvagrerfg cnofg. Penl puvyyjnir raahv,
 gnkvqrezl ivpr vCubar ibyhcgngr uryirgvpn fryintr sbbq gehpx glcrjevgre rpub
 cnex cnevnghe dhv znfgre pyrnafr.
 
+Written by yours truly
 We need to add a by line! Insert a new line above and below these 3 lines
 containing "Written by yours truly" (no quotes).
 Try doing it without using the 'i' nor the ENTER keys! Then go to line 148.
+Written by yours truly

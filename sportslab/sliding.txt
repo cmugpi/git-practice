@@ -10,7 +10,7 @@ In all of these problems:
 It was a summer baseball camp that I attended in high school where I was first
 formally taught how to slide. How many scabs and a jammed wrist could have been
   --->  On the next line, delete from the 'x' to the '.' (don't delete the '.')
-avoidedxif I was taught at a young age how to slide properly. Don't assume
+avoided. Don't assume
 because kids can slide that they know how to slide. That's like assuming a
 player can hit because he can swing a bat. The most important slide to teach is
 the bent leg slide. The biggest problem with the bent leg slide is that kids
@@ -31,7 +31,7 @@ during this stage. When he has rolled back to a seated position, he should
 still have their hands up and his front leg should be bent not straight.  Once
 comfortable with this, have him take a couple steps and slide (I always
   ---> Change from 'x' to ')', replacing with 'in grassy fields'
-practice sliding xon grass). Then have them jog and slide and finally run full
+practice sliding in grassy fields). Then have them jog and slide and finally run full
 speed and slide.  Checkpoints for each step:
 
 Hands should above head not on the ground. Don't worry too much about how high
@@ -55,4 +55,4 @@ sliding is putting your hand down during the slide. This is often the cause of
 jammed fingers, wrists, and sometimes shoulders. Get in the habit of sliding
 with your hands up. If you can remember to slide on your butt with your hands
   ---> Change from 'x' to '.' (including the '.'), replacing it with just '!'
-up, you will be sliding pain freexfrom that point on.
+up, you will be sliding pain free!

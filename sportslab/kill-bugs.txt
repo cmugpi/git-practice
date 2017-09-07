@@ -3,4 +3,4 @@ Help Kidney Srosby, of the Pittsburgh Penguins with his 15-112 homework. Here's
 a hint: his bug is just a single character. (Don't change anything else)
 
 def add(x,y):
-	return x-y
+	return x+y
