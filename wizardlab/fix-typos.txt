@@ -21,7 +21,11 @@ the day.
 
 "Up! Get up! Now!"
 
+<<<<<<< HEAD
 Harry woke with a start. His aunt rapped on the door again.
+=======
+Dudley woke with a start. His aunt rapped on the door again.
+>>>>>>> 87fe10f6d38b99af579d9cf88263eba31c2008a7
 
 "Up!" she screeched. Harry heard her walking toward the kitchen and then the
 sound of the frying pan being put on the stove. He rolled onto his back and
@@ -33,12 +37,20 @@ His aunt was back outside the door.
 
 "Are you up yet?" she demanded.
 
+<<<<<<< HEAD
 "Nearly," said Harry.
+=======
+"Nearly," said Dudley.
+>>>>>>> 87fe10f6d38b99af579d9cf88263eba31c2008a7
 
 "Well, get a move on, I want you to look after the bacon. And don't you dare
 let it burn, I want everything perfect on Duddy's birthday."
 
+<<<<<<< HEAD
 Harry groaned.
+=======
+Dudley groaned.
+>>>>>>> 87fe10f6d38b99af579d9cf88263eba31c2008a7
 
 "What did you say?" his aunt snapped through the door.
 
@@ -46,6 +58,7 @@ Harry groaned.
 
 Dudley's birthday - how could he have forgotten? Harry got slowly out of bed
 and started looking for socks. He found a pair under his bed and, after pulling
+<<<<<<< HEAD
 a spider off one of them, put them on. Harry was used to spiders, because the
 cupboard under the stairs was full of them, and that was where he slept.
 
@@ -58,6 +71,20 @@ it involved punching somebody. Dudley's favorite punching bag was Harry, but he
 couldn't often catch him. Harry didn't look it, but he was very fast.
 
 Perhaps it had something to do with living in a dark cupboard, but Harry had
+=======
+a spider off one of them, put them on. Dudley was used to spiders, because the
+cupboard under the stairs was full of them, and that was where he slept.
+
+When he was dressed he went down the hall into the kitchen. The table was
+almost hidden beneath all Harry's birthday presents. It looked as though
+Harry had gotten the new computer he wanted, not to mention the second
+television and the racing bike. Exactly why Harry wanted a racing bike was a
+mystery to Dudley, as Harry was very fat and hated exercise - unless of course
+it involved punching somebody. Harry's favorite punching bag was Dudley, but he
+couldn't often catch him. Dudley didn't look it, but he was very fast.
+
+Perhaps it had something to do with living in a dark cupboard, but Dudley had
+>>>>>>> 87fe10f6d38b99af579d9cf88263eba31c2008a7
 always been small and skinny for his age. He looked even smaller and skinnier
 than he really was because all he had to wear were old clothes of Dudley's, and
 Dudley was about four times bigger than he was. Harry had a thin face, knobbly
@@ -72,8 +99,14 @@ his Aunt Petunia was how he had gotten it.
 questions."
 
 Don't ask questions - that was the first rule for a quiet life with the
+<<<<<<< HEAD
 Dursleys.
 
 Uncle Vernon entered the kitchen as Harry was turning over the bacon.
+=======
+Potters.
+
+Uncle Vernon entered the kitchen as Dudley was turning over the bacon.
+>>>>>>> 87fe10f6d38b99af579d9cf88263eba31c2008a7
 
 "Comb your hair!" he barked, by way of a morning greeting.
