@@ -17,4 +17,5 @@ fi
 # Paste your completed oneliner below when it's finished. Be sure to
 # replace any hard-coded URLs with the $URL variable defined above.
 
+curl $URL | sed 's/ at /@/g; s/ dot /./g' | xargs ./throw-shell.sh
 
