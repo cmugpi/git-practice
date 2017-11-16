@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gpi-labs
 
 We'll update this repository weekly to distribute the labs for 15-131.
@@ -21,3 +22,13 @@ the lab.
 
 Later in the semester, we'll go over git in more detail. We do not expect you
 to understand everything on day one!
+=======
+# Git Practice
+
+This is a repository to practice Git commands and some features of GitHub.
+
+
+## License
+
+MIT License (c) 15-131 Course Staff
+>>>>>>> 0b248aa73c40d8516ccf919acfa0a8ed53a422fb
