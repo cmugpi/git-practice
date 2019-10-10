@@ -1,2 +1,2 @@
 The dessert will be:
-(delete this line and write in the dessert)
+A small, but fully completed project on GitHub's new kanban-based projects feature
