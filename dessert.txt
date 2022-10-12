@@ -1,2 +1,6 @@
 The dessert will be:
+<<<<<<< HEAD
 Cookies n' Cream Icecream Cake
+=======
+Cookie n' cream Icecream cake
+>>>>>>> ce61f386dfcb30a07eac09ec3414628b71d5623b

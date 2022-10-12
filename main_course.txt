@@ -1,2 +1,6 @@
 The main course of the meal will consist of:
+<<<<<<< HEAD
 Wagyu stake and fried rice with Sriracha sauce
+=======
+Wagyu steak and fried rice with sriracha sauce
+>>>>>>> ce61f386dfcb30a07eac09ec3414628b71d5623b
